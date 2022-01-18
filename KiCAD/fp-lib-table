@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "lpf")(type "KiCad")(uri "${KIPRJMOD}/lpf.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/lpf.pretty/Library.pretty")(options "")(descr ""))
+  (lib (name "ABA-52563")(type "KiCad")(uri "${KIPRJMOD}/ABA-52563-BLKG.pretty")(options "")(descr ""))
+  (lib (name "ABA-52563-BLKG")(type "Legacy")(uri "${KIPRJMOD}/ABA-52563-BLKG.pretty/ABA-52563-BLKG.mod")(options "")(descr ""))
+)

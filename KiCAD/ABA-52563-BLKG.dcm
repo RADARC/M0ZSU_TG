@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ABA-52563-BLKG
+D Broadcom ABA-52563-BLKG, RF Amplifier Broadband, 21.5 dB 3.5 GHz, 6-Pin SOT-363
+K
+F https://docs.broadcom.com/docs/AV02-1785EN
+$ENDCMP
+#
+#End Doc Library
