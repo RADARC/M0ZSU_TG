@@ -132,7 +132,7 @@
           (stroke (width 0.2032) (type default) (color 0 0 0 0))
           (fill (type none))
         )
-        (arc (start 1.778 0) (mid 0.2221 1.8083) (end -1.778 0.508)
+        (arc (start 1.778 0) (mid 0.222 1.8083) (end -1.778 0.508)
           (stroke (width 0.254) (type default) (color 0 0 0 0))
           (fill (type none))
         )
@@ -3137,7 +3137,7 @@
     (property "Value" "PAM-42" (id 1) (at 172.4661 65.0378 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Library:PAM42" (id 2) (at 160.02 62.23 0)
+    (property "Footprint" "Library:PAM42-Solder" (id 2) (at 160.02 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 160.02 62.23 0)
@@ -3627,7 +3627,7 @@
       (reference "L8") (unit 1) (value "470nH") (footprint "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
     )
     (path "/e7774fcd-cb69-41c1-9cd0-fa9aa054407e"
-      (reference "M1") (unit 1) (value "PAM-42") (footprint "Library:PAM42")
+      (reference "M1") (unit 1) (value "PAM-42") (footprint "Library:PAM42-Solder")
     )
     (path "/4429adbc-7361-40ed-8fb8-57433752d1a3"
       (reference "R1") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
