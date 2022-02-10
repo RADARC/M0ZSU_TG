@@ -3267,6 +3267,9 @@
   (gr_text "M0ZSU Tracking Generator - thanks also to Y04HFU" (at 115.6716 132.4356) (layer "F.SilkS") (tstamp b748f219-0f44-41d7-bcf2-9a96e7f8b594)
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (gr_text "and M0SKP" (at 140.3604 132.4356) (layer "F.SilkS") (tstamp dea160a0-c7eb-439d-aa99-b60757115fc7)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
 
   (segment (start 87.0372 123.9624) (end 87.0372 124.6124) (width 0.29337) (layer "F.Cu") (net 1) (tstamp 01ba4546-bc9e-4372-a5a5-88da8e0df8ab))
   (segment (start 88.0364 116.3309) (end 87.9326 116.3309) (width 0.29337) (layer "F.Cu") (net 1) (tstamp 09627c34-cdad-477a-a2bf-fe5344ee060a))
